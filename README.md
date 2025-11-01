@@ -1,105 +1,58 @@
-# Hi 👋, I'm Ahmed Hindy
+# 👋 Hi, I'm Ahmed Hindy  
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Data+Scientist;Business+Intelligence+Specialist;From+Data+to+Insights+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Business+Intelligence+Specialist;Turning+Data+into+Actionable+Insights+🚀)
 
 </div>
 
-## 🚀 About Me
+---
 
-- 🔭 I'm currently focusing on **Data Analysis, Business Intelligence, and Data Science Projects**
-- 🌱 I'm continuously learning and expanding skills in **Data Visualization, SQL, Power BI, and Advanced Analytics**
-- 👨‍💻 I specialize in transforming complex data into actionable business insights
-- 📊 Proficient in **Excel, Power BI, Tableau, SQL, and Python**
-- 🏆 Completed multiple career tracks and virtual internships
-- 📫 Open to data-related opportunities and collaborations
+## 🚀 About Me  
+- 🎯 Passionate **Data Analyst** & **BI Specialist** with 2 years of hands-on experience.  
+- 🔍 Skilled at transforming raw data into **clear business insights** using **Python, SQL, Excel, Tableau, and Power BI**.  
+- 🧩 Strong background in **data visualization, dashboard design, and statistical analysis**.  
+- 🤝 Open to **data-driven roles**, **collaborations**, and **continuous learning opportunities**.  
 
 ---
 
-## 💼 Professional Focus
-
-```yaml
-Current_Focus: "Data Analyst & Business Intelligence Specialist"
-Key_Skills:
-  - Data Visualization
-  - Business Intelligence
-  - Statistical Analysis
-  - Dashboard Creation
-  - Data Cleaning & Preprocessing
-Certifications:
-  - AI Engineer Career Track
-  - Data Analyst Career Track
-  - Data Engineer Career Track
-  - Tableau Developer Career Track
-```
+## 💼 Core Skills  
+- **Data Analysis:** Cleaning, modeling, and interpreting datasets  
+- **Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
+- **BI & Reporting:** KPI dashboards, storytelling with data  
+- **Programming:** Python (Pandas, NumPy), SQL  
+- **Excel:** Advanced formulas, Pivot Tables, automation  
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages & Tools
-- **Programming:** Python, SQL
-- **Data Analysis:** Pandas, NumPy, Excel
-- **Visualization:** Tableau, Power BI, Matplotlib, Seaborn
-- **Business Tools:** Microsoft Excel, Advanced Excel Techniques
-
-### Platforms & Certifications
-- **Virtual Internships:** Bloomberg, British Airways, Deloitte, NSW Government, Quantium
-- **Visualization & BI Tools:** Power BI, Tableau, SQL Databases
+## 🏆 Certifications & Learning  
+- 🎓 Data Analyst Career Track  
+- 🎓 AI Engineer Career Track  
+- 🎓 Data Engineer Career Track  
+- 🎓 Tableau Developer Career Track  
+- 💼 Virtual Internships: British Airways, Deloitte, NSW Government, Quantium, Bloomberg
 
 ---
 
-## 🎯 Key Competencies
-
-- Advanced Excel Analysis
-- Data Visualization
-- Statistical Analysis
-- Business Intelligence
-- SQL Querying
-- Dashboard Design
-- Data Cleaning & Preprocessing
+## 📊 Featured Projects  
+| Project | Tool | Description |
+|----------|------|-------------|
+| 📞 **Call Center KPI Dashboard** | Excel | Analyzed performance metrics & created actionable reports |
+| 🎬 **YouTube Top 1000 Channels Dashboard** | Power BI | Built interactive visuals tracking growth & engagement |
+| 📈 **Data Visualization Portfolio** | Tableau | Visual storytelling through data-driven insights |
+| 🧠 **Python Data Analysis Projects** | Python | Cleaned, modeled, and visualized datasets for real-world scenarios |
 
 ---
 
-## 🏆 Achievements & Certificates
-
-### Career Tracks
-- AI Engineer Career Track
-- Data Analyst Career Track
-- Data Engineer Career Track
-- Tableau Developer Career Track
-
-### Notable Courses & Certificates
-- Advanced SQL
-- Data Analysis with Excel Pivot Tables
-- Data Visualization
-- Business Intelligence
-- Cloud Computing
-- Web Scraping
-- Machine Learning Foundations
-
----
-
-## 📊 Featured Projects
-
-### 📈 Business Intelligence Projects
-- **Call Center KPI Dashboard** (Excel)
-- **YouTube Top 1000 Channels Dashboard** (Power BI)
-- **Data Visualization Projects** (Tableau)
-- **SQL Data Analysis Projects**
-- **Python Data Science Projects**
-
----
-
-## 🌐 Connect With Me
+## 🌐 Connect With Me  
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#https://www.linkedin.com/in/ahmed-mostafa-1b1046212)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#ahmedhindy02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedhindy02)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedhindy@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ahmedhindy.com)
 
-**💬 Let's discuss:** Data Analysis • Business Intelligence • Career Development
+💬 *Let’s connect to discuss Data Analysis, Business Intelligence, and turning insights into impact!*
 
 </div>
 
@@ -107,20 +60,7 @@ Certifications:
 
 <div align="center">
 
-### 🚀 Transforming Data into Actionable Insights
-
-*"Every dataset tells a story, and I'm here to help you understand it"*
+### 🌟 “Every dataset tells a story — I turn that story into strategy.”  
 
 </div>
 
----
-
-<details>
-<summary><b>⚡ Quick Facts</b></summary>
-
-- 🌍 **Languages:** English, Arabic
-- 📚 **Learning:** German
-- 🧠 **Interests:** Problem Solving, Chess, Continuous Learning
-- 🏅 **Hobbies:** Learning Languages, Strategic Thinking
-
-</details>
