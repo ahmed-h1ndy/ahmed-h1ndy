@@ -39,8 +39,8 @@
 |----------|------|-------------|
 | 📞 **Call Center KPI Dashboard** | Excel | Analyzed performance metrics & created actionable reports |
 | 🎬 **YouTube Top 1000 Channels Dashboard** | Power BI | Built interactive visuals tracking growth & engagement |
-| 📈 **Data Visualization Portfolio** | Tableau | Visual storytelling through data-driven insights |
-| 🧠 **Python Data Analysis Projects** | Python | Cleaned, modeled, and visualized datasets for real-world scenarios |
+| 🏘️ **Real Estate Market Analysis** | Python (Pandas, NumPy, Matplotlib) | Conducted EDA on real estate and customer datasets, visualizing sales and demographics to drive data-informed property strategies. |
+| 📊 **Customer Engagement Analysis** | SQL & Tableau | Analyzed global engagement data using SQL and visualized trends in Tableau, uncovering conversion gaps and marketing opportunities. |
 
 ---
 
